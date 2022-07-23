@@ -1,3 +1,1 @@
-# Computer-Science
-
-* Network
+### About the Computer Science.
